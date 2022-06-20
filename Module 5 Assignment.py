@@ -39,7 +39,7 @@ print(str_rectangle(r1))
 shift_rectangle(r1, -10, -20)
 print(str_rectangle(r1)) 
 
-print(str_rectangle(r1)) 
-
 r2 = offset_rectangle(r1, 100, 100) 
 print(str_rectangle(r2)) 
+
+print(str_rectangle(r1)) 
