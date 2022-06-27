@@ -15,8 +15,8 @@ print(broken_clock.days, broken_clock.seconds)
 
 #Problem 4
 datetime_addition = datetime.now()
-def heightandtime(x, y, z): 
+def height_and_time_variables(x, y, z): 
     print("Height = ",x," feet and ",y," inches at ",datetime_addition,"") 
 x = input("Feet:") 
 y = input("Inches:") 
-heightandtime(x, y, datetime_addition) 
+height_and_time_variables(x, y, datetime_addition) 
